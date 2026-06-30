@@ -1,0 +1,10 @@
+[project]
+name = "broadshift-test-one"
+version = "0.1.0"
+description = "Broadshift Python Developer Take Home Project."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pytest>=9.1.1",
+    "selenium>=4.45.0",
+]
